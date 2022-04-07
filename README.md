@@ -1,1 +1,1 @@
-# Django-Project
+# Hospital Management System using Django
